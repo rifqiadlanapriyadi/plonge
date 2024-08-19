@@ -1,0 +1,4 @@
+repository "Plonge@Macropyre@cloud"
+  path "/"
+    br "/main"
+    co "/main"
